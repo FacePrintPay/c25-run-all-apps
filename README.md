@@ -1,0 +1,17 @@
+# c25-run-all-apps
+**Constellation 25 Confirmed Script** — ran successfully on device
+
+## Stats
+- Lines: 206
+- Dependencies: git node npm pip 
+
+## Usage
+```bash
+chmod +x run_all_apps.sh
+./run_all_apps.sh
+```
+
+## Source
+/data/data/com.termux/files/home/c25-final-13952/aikre8tive/scripts/run_all_apps.sh
+
+Built by Constellation 25 — FacePrintPay / Cygel White
