@@ -12,6 +12,6 @@ chmod +x run_all_apps.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/consolidation-audit/aikre8tive/scripts/run_all_apps.sh
+/data/data/com.termux/files/home/consolidation-audit/master/scripts/run_all_apps.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
